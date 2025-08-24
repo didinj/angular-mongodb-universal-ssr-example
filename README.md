@@ -1,6 +1,6 @@
 # Angular 20 (Standalone) + SSR + MongoDB (Universal) — 2025 Update
 
-Read the full tutorial [here]().
+Read the full tutorial [here](https://www.djamware.com/post/5d23557451757cf40a96c46d/angular-20-standalone-ssr-mongodb-universal-2025-update).
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.1.6.
 
