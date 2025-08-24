@@ -1,0 +1,9 @@
+<h2>Users</h2>
+@if (loading()) {
+<p>Loading…</p>
+}
+<ul>
+  <li *ngFor="let u of users()">
+    {{ u.name }} <small>({{ u.email }})</small>
+  </li>
+</ul>
